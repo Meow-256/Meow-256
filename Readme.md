@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm YourName
+# Hi 👋, I'm Meow
 
 ### Full Stack Engineer
 
@@ -14,6 +14,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,docker,linux,nginx,postgres,redis,react,nextjs,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,docker,linux,nextjs,git,rust,c,cs,cpp,bots,discordjs,java,npm,go,ubuntu,gradle,maven" />
   </a>
 </p>
