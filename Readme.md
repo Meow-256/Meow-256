@@ -17,3 +17,11 @@
     <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,docker,linux,nextjs,git,html,rust,c,cs,cpp,bots,discordjs,java,npm,go,ubuntu,gradle,maven" />
   </a>
 </p>
+
+---
+
+### GitHub Stats:
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=holi" alt="GitHub Profile Details" />
+</p>
