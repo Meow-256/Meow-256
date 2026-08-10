@@ -4,7 +4,7 @@
 
 ### Full Stack Engineer
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8A2BE2&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Meow-256&color=8A2BE2&style=flat-square)
 
 </div>
 
@@ -23,5 +23,5 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo-256&theme=holi" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meow-256&theme=holi" alt="GitHub Profile Details" />
 </p>
